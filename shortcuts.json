@@ -1,0 +1,370 @@
+{
+  "actions": [
+    {
+      "id": "GeneralNumberCycle",
+      "type": "ExecuteFunction",
+      "name": "General Number Cycle"
+    },
+    {
+      "id": "DateCycle",
+      "type": "ExecuteFunction",
+      "name": "Date Cycle"
+    },
+    {
+      "id": "LocalCurrencyCycle",
+      "type": "ExecuteFunction",
+      "name": "Local Currency Cycle"
+    },
+    {
+      "id": "ForeignCurrencyCycle",
+      "type": "ExecuteFunction",
+      "name": "Foreign Currency Cycle"
+    },
+    {
+      "id": "PercentCycle",
+      "type": "ExecuteFunction",
+      "name": "Percent Cycle"
+    },
+    {
+      "id": "MultipleCycle",
+      "type": "ExecuteFunction",
+      "name": "Multiple Cycle"
+    },
+    {
+      "id": "BinaryCycle",
+      "type": "ExecuteFunction",
+      "name": "Binary Cycle"
+    },
+    {
+      "id": "IncreaseDecimal",
+      "type": "ExecuteFunction",
+      "name": "Increase Decimal"
+    },
+    {
+      "id": "DecreaseDecimals",
+      "type": "ExecuteFunction",
+      "name": "Decrease Decimals"
+    },
+    {
+      "id": "FootnoteCycle",
+      "type": "ExecuteFunction",
+      "name": "Footnote Cycle"
+    },
+    {
+      "id": "BlueBlackToggle",
+      "type": "ExecuteFunction",
+      "name": "Blue-Black Toggle"
+    },
+    {
+      "id": "FontColorCycle",
+      "type": "ExecuteFunction",
+      "name": "Font Color Cycle"
+    },
+    {
+      "id": "FillColorCycle",
+      "type": "ExecuteFunction",
+      "name": "Fill Color Cycle"
+    },
+    {
+      "id": "OuterBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Outer Border Cycle"
+    },
+    {
+      "id": "InnerBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Inner Border Cycle"
+    },
+    {
+      "id": "TopBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Top Border Cycle"
+    },
+    {
+      "id": "RightBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Right Border Cycle"
+    },
+    {
+      "id": "BottomBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Bottom Border Cycle"
+    },
+    {
+      "id": "LeftBorderCycle",
+      "type": "ExecuteFunction",
+      "name": "Left Border Cycle"
+    },
+    {
+      "id": "RemoveBorder",
+      "type": "ExecuteFunction",
+      "name": "Remove All Borders"
+    },
+    {
+      "id": "IncreaseFont",
+      "type": "ExecuteFunction",
+      "name": "Increase Font"
+    },
+    {
+      "id": "DecreaseFont",
+      "type": "ExecuteFunction",
+      "name": "Decrease Font"
+    },
+    {
+      "id": "WrapText",
+      "type": "ExecuteFunction",
+      "name": "Wrap Text"
+    },
+    {
+      "id": "RemoveGridlines",
+      "type": "ExecuteFunction",
+      "name": "Remove Gridlines"
+    },
+    {
+      "id": "FontSizeCycle",
+      "type": "ExecuteFunction",
+      "name": "Font Size Cycle"
+    },
+    {
+      "id": "FontCycle",
+      "type": "ExecuteFunction",
+      "name": "Font Cycle"
+    }
+  ],
+  "shortcuts": [
+    {
+      "action": "GeneralNumberCycle",
+      "key": {
+        "default": "Ctrl+Shift+1",
+        "mac": "Command+Shift+1",
+        "web": "Ctrl+Shift+1",
+        "windows": "Ctrl+Shift+1"
+      }
+    },
+    {
+      "action": "DateCycle",
+      "key": {
+        "default": "Ctrl+Shift+2",
+        "mac": "Command+Shift+2",
+        "web": "Ctrl+Shift+2",
+        "windows": "Ctrl+Shift+2"
+      }
+    },
+    {
+      "action": "LocalCurrencyCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+4",
+        "mac": "Command+Option+Shift+4",
+        "web": "Ctrl+Alt+Shift+4",
+        "windows": "Ctrl+Alt+Shift+4"
+      }
+    },
+    {
+      "action": "ForeignCurrencyCycle",
+      "key": {
+        "default": "Alt+Shift+4",
+        "mac": "Option+Shift+4",
+        "web": "Alt+Shift+4",
+        "windows": "Alt+Shift+4"
+      }
+    },
+    {
+      "action": "PercentCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+5",
+        "mac": "Command+Option+Shift+5",
+        "web": "Ctrl+Alt+Shift+5",
+        "windows": "Ctrl+Alt+Shift+5"
+      }
+    },
+    {
+      "action": "FootnoteCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+6",
+        "mac": "Command+Option+Shift+6",
+        "web": "Ctrl+Alt+Shift+6",
+        "windows": "Ctrl+Alt+Shift+6"
+      }
+    },
+    {
+      "action": "MultipleCycle",
+      "key": {
+        "default": "Alt+Shift+M",
+        "mac": "Option+Shift+M",
+        "web": "Alt+Shift+M",
+        "windows": "Alt+Shift+M"
+      }
+    },
+    {
+      "action": "BinaryCycle",
+      "key": {
+        "default": "Ctrl+Alt+Shift+Y",
+        "mac": "Command+Option+Shift+Y",
+        "web": "Ctrl+Alt+Shift+Y",
+        "windows": "Ctrl+Alt+Shift+Y"
+      }
+    },
+    {
+      "action": "IncreaseDecimal",
+      "key": {
+        "default": "Ctrl+Alt+E",
+        "mac": "Option+Shift+E",
+        "web": "Ctrl+Alt+E",
+        "windows": "Ctrl+Alt+E"
+      }
+    },
+    {
+      "action": "DecreaseDecimals",
+      "key": {
+        "default": "Ctrl+Alt+Q",
+        "mac": "Option+Shift+Q",
+        "web": "Ctrl+Alt+Q",
+        "windows": "Ctrl+Alt+Q"
+      }
+    },
+    {
+      "action": "BlueBlackToggle",
+      "key": {
+        "default": "Ctrl+Alt+K",
+        "mac": "Command+Option+K",
+        "web": "Ctrl+Alt+K",
+        "windows": "Ctrl+Alt+K"
+      }
+    },
+    {
+      "action": "FontColorCycle",
+      "key": {
+        "default": "Alt+Shift+F",
+        "mac": "Option+Shift+F",
+        "web": "Alt+Shift+F",
+        "windows": "Alt+Shift+F"
+      }
+    },
+    {
+      "action": "FillColorCycle",
+      "key": {
+        "default": "Alt+Shift+K",
+        "mac": "Option+Shift+K",
+        "web": "Alt+Shift+K",
+        "windows": "Alt+Shift+K"
+      }
+    },
+    {
+      "action": "OuterBorderCycle",
+      "key": {
+        "default": "Shift+Alt+O",
+        "mac": "Shift+Option+O",
+        "windows": "Shift+Alt+O",
+        "web": "Shift+Alt+O"
+      }
+    },
+    {
+      "action": "InnerBorderCycle",
+      "key": {
+        "default": "Shift+Alt+I",
+        "mac": "Shift+Option+I",
+        "windows": "Shift+Alt+I",
+        "web": "Shift+Alt+I"
+      }
+    },
+    {
+      "action": "TopBorderCycle",
+      "key": {
+        "default": "Shift+Alt+Up",
+        "mac": "Shift+Option+Up",
+        "windows": "Shift+Alt+Up",
+        "web": "Shift+Alt+Up"
+      }
+    },
+    {
+      "action": "RightBorderCycle",
+      "key": {
+        "default": "Shift+Alt+Right",
+        "mac": "Shift+Option+Right",
+        "windows": "Shift+Alt+Right",
+        "web": "Shift+Alt+Right"
+      }
+    },
+    {
+      "action": "BottomBorderCycle",
+      "key": {
+        "default": "Shift+Alt+Down",
+        "mac": "Shift+Option+Down",
+        "windows": "Shift+Alt+Down",
+        "web": "Shift+Alt+Down"
+      }
+    },
+    {
+      "action": "LeftBorderCycle",
+      "key": {
+        "default": "Shift+Alt+Left",
+        "mac": "Shift+Option+Left",
+        "windows": "Shift+Alt+Left",
+        "web": "Shift+Alt+Left"
+      }
+    },
+    {
+      "action": "RemoveBorder",
+      "key": {
+        "default": "Shift+Alt+R",
+        "mac": "Shift+Option+R",
+        "windows": "Shift+Alt+R",
+        "web": "Shift+Alt+R"
+      }
+    },
+    {
+      "action": "IncreaseFont",
+      "key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "Command+Option+Shift+F",
+        "web": "Ctrl+Shift+F",
+        "windows": "Ctrl+Shift+F"
+      }
+    },
+    {
+      "action": "DecreaseFont",
+      "key": {
+        "default": "Ctrl+Shift+G",
+        "mac": "Command+Option+Shift+G",
+        "web": "Ctrl+Shift+G",
+        "windows": "Ctrl+Shift+G"
+      }
+    },
+    {
+      "action": "WrapText",
+      "key": {
+        "default": "Ctrl+Shift+W",
+        "mac": "Command+Option+Shift+W",
+        "web": "Ctrl+Shift+W",
+        "windows": "Ctrl+Shift+W"
+      }
+    },
+    {
+      "action": "RemoveGridlines",
+      "key": {
+        "default": "Ctrl+Shift+L",
+        "mac": "Command+Option+Shift+L",
+        "web": "Ctrl+Shift+L",
+        "windows": "Ctrl+Shift+L"
+      }
+    },
+    {
+      "action": "FontSizeCycle",
+      "key": {
+        "default": "Alt+Shift+T",
+        "mac": "Option+Shift+T",
+        "web": "Alt+Shift+T",
+        "windows": "Alt+Shift+T"
+      }
+    },
+    {
+      "action": "FontCycle",
+      "key": {
+        "default": "Ctrl+Shift+Y",
+        "mac": "Option+Shift+Y",
+        "web": "Ctrl+Shift+Y",
+        "windows": "Ctrl+Shift+Y"
+      }
+    }
+  ]
+}
