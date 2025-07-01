@@ -11,14 +11,9 @@
       "name": "Date Cycle"
     },
     {
-      "id": "LocalCurrencyCycle",
+      "id": "CurrencyCycle",
       "type": "ExecuteFunction",
-      "name": "Local Currency Cycle"
-    },
-    {
-      "id": "ForeignCurrencyCycle",
-      "type": "ExecuteFunction",
-      "name": "Foreign Currency Cycle"
+      "name": "Currency Cycle"
     },
     {
       "id": "PercentCycle",
@@ -151,16 +146,7 @@
       }
     },
     {
-      "action": "LocalCurrencyCycle",
-      "key": {
-        "default": "Ctrl+Alt+Shift+4",
-        "mac": "Command+Option+Shift+4",
-        "web": "Ctrl+Alt+Shift+4",
-        "windows": "Ctrl+Alt+Shift+4"
-      }
-    },
-    {
-      "action": "ForeignCurrencyCycle",
+      "action": "CurrencyCycle",
       "key": {
         "default": "Alt+Shift+4",
         "mac": "Option+Shift+4",
