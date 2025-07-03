@@ -124,6 +124,16 @@
       "id": "FontCycle",
       "type": "ExecuteFunction",
       "name": "Font Cycle"
+    },
+    {
+      "id": "TraceDependents",
+      "type": "ExecuteFunction",
+      "name": "Trace Dependents"
+    },
+    {
+      "id": "TracePrecedents",
+      "type": "ExecuteFunction",
+      "name": "Trace Precedents"
     }
   ],
   "shortcuts": [
@@ -350,6 +360,24 @@
         "mac": "Option+Shift+Y",
         "web": "Ctrl+Shift+Y",
         "windows": "Ctrl+Shift+Y"
+      }
+    },
+    {
+      "action": "TraceDependents",
+      "key": {
+        "default": "Alt+M+D",
+        "mac": "Option+M+D",
+        "web": "Alt+M+D",
+        "windows": "Alt+M+D"
+      }
+    },
+    {
+      "action": "TracePrecedents",
+      "key": {
+        "default": "Alt+M+P",
+        "mac": "Option+M+P",
+        "web": "Alt+M+P",
+        "windows": "Alt+M+P"
       }
     }
   ]
