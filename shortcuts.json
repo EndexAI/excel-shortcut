@@ -365,19 +365,19 @@
     {
       "action": "TraceDependents",
       "key": {
-        "default": "Alt+Shift+M+D",
-        "mac": "Option+Shift+M+D",
-        "web": "Alt+Shift+M+D",
-        "windows": "Alt+Shift+M+D"
+        "default": "Alt+Shift+D",
+        "mac": "Option+Shift+D",
+        "web": "Alt+Shift+D",
+        "windows": "Alt+Shift+D"
       }
     },
     {
       "action": "TracePrecedents",
       "key": {
-        "default": "Alt+Shift+M+P",
-        "mac": "Option+Shift+M+P",
-        "web": "Alt+Shift+M+P",
-        "windows": "Alt+Shift+M+P"
+        "default": "Alt+Shift+P",
+        "mac": "Option+Shift+P",
+        "web": "Alt+Shift+P",
+        "windows": "Alt+Shift+P"
       }
     }
   ]
